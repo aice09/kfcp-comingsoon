@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nostalgic-torvalds-215b10.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: 
+address: Lot 6-7, Block 3, Phase 2, Mountview Industrial Complex, Carmona Cavite, Philippines 4116
 
 # Build settings
 markdown: kramdown
