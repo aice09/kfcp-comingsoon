@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Soon
-email: youremailaddress
-phone: 0123456789
-description: A coming soon page for Jekyll
+email: it@koufuprinting.com
+phone: +63 (46) 4137269; +63 (46) 5420227; +63 (46) 5420229; +63 (2) 5844947; +63 (2) 519 4658; +63 (2) 5525163; +63 (2) 5194575; +63 (46) 4097188;
+description: A coming soon page for Kou Fu Color Printing Corporation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yjpl.github.io/soon/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: alternatyves
-github_username: YJPL
+url: "https://koufuprinting.com/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: KFCP
+github_username: KFCP
 
 # Build settings
 markdown: kramdown
