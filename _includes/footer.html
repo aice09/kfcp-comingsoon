@@ -15,16 +15,16 @@
 </li>
 <li>
             {% if site.phone %}
-            call: {{ site.phone | escape }}
+            TL: {{ site.phone | escape }}
             {% endif %}
             </li>
 <li>
           
             {% if site.email %}
-            email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            MAIL: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
             {% if site.address %}
-            address: {{ site.address }} 
+            ADDRESS: {{ site.address }} 
           {% endif %}
           </h3>
 </br>
