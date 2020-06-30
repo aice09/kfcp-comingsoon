@@ -19,8 +19,8 @@ phone: +63 (46) 4137269; +63 (46) 5420227; +63 (46) 5420229; +63 (2) 5844947; +6
 description: A coming soon page for Kou Fu Color Printing Corporation
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nostalgic-torvalds-215b10.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: KFCP
-github_username: KFCP
+twitter_username: 
+github_username: 
 
 # Build settings
 markdown: kramdown
