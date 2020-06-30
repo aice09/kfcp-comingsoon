@@ -7,7 +7,7 @@ layout: default
 
 # Soon
 
-A simple *coming soon* page built for [Jekyll](https://jekyllrb.com/docs/).
+A simple *coming soon* page built for [Kou Fu Color Printing](https://koufuprinting.com/).
 
 ## What's in it?
 
@@ -17,4 +17,4 @@ Soon is a single static page with a full-screen image, nothing more. Remember th
 
 ## Get started
 
-[README](https://github.com/YJPL/soon/blob/master/README.md) Get [Soon](https://github.com/YJPL/soon/).
+[README](https://github.com/aice09/kfcp-comingsoon/blob/master/README.md) Get [Soon](https://github.com/aice09/kfcp-comingsoon/).
