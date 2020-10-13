@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Soon
-email: inquiry@koufuprinting.com
+email: koufu@koufuprinting.com
 phone: +63 (46) 4137269; +63 (46) 5420227; +63 (46) 5420229; +63 (2) 5844947; +63 (2) 519 4658; +63 (2) 5525163; +63 (2) 5194575; +63 (46) 4097188;
 description: A coming soon page for Kou Fu Color Printing Corporation
 baseurl: "" # the subpath of your site, e.g. /blog
